@@ -16,7 +16,16 @@ With experience across web and mobile development using tools like **Laravel**, 
 ### Connect with Me
 - LinkedIn: [linkedin.com/in/akashrmalhotra](https://www.linkedin.com/in/akashrmalhotra)  
 - Instagram: [instagram.com/akashrmalhotra](https://www.instagram.com/akashrmalhotra)  
-- Website: [www.callhq.ai](https://www.callhq.ai)
+
+### Products We made
+### CallHQ:
+- Web : [www.callhq.ai](https://www.callhq.ai)
+- Dashboard : [www.web.callhq.ai](https://web.callhq.ai/)
+- Documentation : [www.docs.callhq.ai](https://docs.callhq.ai/)
+### Broki
+- Web App : [www.broki.in](https://www.broki.in/)
+- Android App : [Play Store Link](https://apps.apple.com/in/app/broki-your-f-b-partner/id6738732798)
+- IOS App: [App Store Link](https://play.google.com/store/apps/details?id=com.broki)
 
 <!---
 akashrmalhotra/akashrmalhotra is a special repository because its README.md (this file) appears on your GitHub profile.
